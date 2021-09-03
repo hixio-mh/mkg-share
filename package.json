@@ -25,7 +25,7 @@
     "image-webpack-loader": "^1.8.0",
     "node-sass": "^3.7.0",
     "open": "0.0.5",
-    "parallel-webpack": "^1.4.0",
+    "parallel-webpack": "^2.0.0",
     "sass-loader": "^3.2.0",
     "string-replace-webpack-plugin": "0.0.3",
     "style-loader": "^0.13.1",
